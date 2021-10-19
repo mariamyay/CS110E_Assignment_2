@@ -8,4 +8,4 @@ else if (rect_area>tr_area){
     console.log("The rectangle has a bigger area.")
 
 }
-else (console.log("The areas are equal"));
+else {console.log("The areas are equal")};
